@@ -6,20 +6,6 @@ YANG DI SALIN KE URL BUKAN ISINYA YA ??
 #EXTM3U
 url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml, https://epg.kampung.xyz/IPTV.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml, https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml"  refresh="3600"
 
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml
-
 #EXTINF:0 tvg-id="INFO" tvg-logo="https://cdn6.aptoide.com/imgs/7/5/e/75ef5d9fe7c81501d3ae4246b124c5e8_fgraphic.jpg" group-title="Lokal ",INFO PELANGGAN
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
